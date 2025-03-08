@@ -1,6 +1,6 @@
 # MeltStealer
 
-MeltStealer is a C# data extraction tool that grabs and "steals" files such as passwords, wallets, extensions, files, system information, geolocation, app data, and much more. #stealer #grabber
+MeltStealer is a C# data extraction and stealer tool that grabs and "steals" files such as passwords, wallets, extensions, files, system information, geolocation, app data, and much more. #stealer #grabber
 
 Please be aware that this tool is purely for demonstration purposes and should not be used for any illegal or malicious activity. I do not support any misuse of this software for any purpose that is not educational or on your own system. Any misuse will result in restriction from the tool.
 
